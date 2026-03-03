@@ -1,0 +1,163 @@
+{
+  "version": "0.0.1",
+  "game": "Splatoon 3 (Alterna)",
+  "objectives": [
+    {
+      "goal": "Obtain {{X}} Sunken Scrolls",
+      "range": [1, 2, 3, 4, 5],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Obtain {{X}} Sardinium",
+      "range": [1, 2, 3, 4, 5],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Ability Upgrades x{{X}}",
+      "range": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "Get {{X}} Ability upgrades, including Ink Capacity, Sensor, and Suit upgrades",
+      "icons": []
+    },
+    {
+      "goal": "Weapon Upgrades x{{X}}",
+      "range": [1, 2, 3, 4, 5, 6, 7, 8],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "Get {{X}} Main and/or Sub weapon upgrades ",
+      "icons": []
+    },
+    {
+      "goal": "Smallfry Upgrade x{{X}}",
+      "range": [1, 2, 3, 4],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Sensor x{{X}}",
+      "range": [1, 2],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Suit Recovery Up x{{X}}",
+      "range": [1, 2],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Splat Bombs {{X}}",
+      "range": [1, 2],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Smallfry Ink Saver",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Ink-Tank Capacity Up x{{X}}",
+      "range": [1, 2],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "Increase the Ink-Tank Capacity via Hero Gear",
+      "icons": []
+    },
+    {
+      "goal": "Ink Resistance Up x{{X}}",
+      "range": [1, 2],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "Upgrade Ink Resistance via Hero Gear",
+      "icons": []
+    },
+    {
+      "goal": "Hero Shot x{{X}}",
+      "range": [1, 2],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "Increase the Hero Shot's fire rate via Hero Gear",
+      "icons": []
+    },
+    {
+      "goal": "Special Charge Up x{{X}}",
+      "range": [1, 2],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "Increase your Special Charge rate via Hero Gear",
+      "icons": []
+    },
+    {
+      "goal": "Smallfry HP Up",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "Increase Smallfry's HP via Hero Gear",
+      "icons": []
+    },
+    {
+      "goal": "The Obscurest Chiaroscurist",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "Complete the Big Man Boss Battle",
+      "icons": []
+    },
+    {
+      "goal": "The Pursuit of the Precious",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "Complete the Shiver Boss Battle",
+      "icons": []
+    },
+    {
+      "goal": "The Future Stares Back",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [],
+      "tooltip": "Complete the Frye Boss Battle",
+      "icons": []
+    }
+  ],
+  "limits": {
+    "board": {},
+    "line": {}
+  }
+}
