@@ -6,6 +6,63 @@
   "tag_names": ["beat_crater"],
   "objectives": [
     {
+      "goal": "Beat {{X}} Stages with Hardest Weapon",
+      "range": [5, 10],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
+      "individual_limit": 2,
+      "emoji": "🔫"
+    },
+    {
+      "goal": "End {{X}} Stages with Bonuses",
+      "range": [1, 2, 3, 4, 5],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l"],
+      "tooltip": "BETA",
+      "progressive_ranges": true,
+      "individual_limit": 3,
+      "emoji": "➕"
+    },
+    {
+      "goal": "Get {{X}} Unique Special Cans Locations",
+      "range": [2, 3, 4, 5],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
+      "individual_limit": 4,
+      "emoji": "🥫",
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Max Armor",
+      "range": [],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "emoji": "🛡️",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Get {{X}} Unique Armor Kits",
+      "range": [5, 10, 15, 20],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "progressive_ranges": true,
+      "individual_limit": 4,
+      "emoji": "💼",
+      "tooltip": "BETA"
+    },
+    {
       "goal": "Boss: DJ Octavio",
       "range": [],
       "board_categories": ["alterna"],
