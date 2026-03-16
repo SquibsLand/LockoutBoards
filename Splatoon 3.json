@@ -6,6 +6,136 @@
   "tag_names": ["beat_crater"],
   "objectives": [
     {
+      "goal": "Obtain {{X}} Keys",
+      "range": [5, 8, 10, 12],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Splat {{X}} Oversized Octopods",
+      "range": [1, 2, 3],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Splat an Octobomber",
+      "range": [],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Splat {{X}} Octosnipers",
+      "range": [6, 10, 12, 15],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Splat {{X}} Octocommanders",
+      "range": [3, 5, 8, 10],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Splat {{X}} Octolings",
+      "range": [3, 5],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Splat an Amped Octostamp",
+      "range": [],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Splat an Octostamp",
+      "range": [],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Splat a Blobby Octotrooper",
+      "range": [],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Splat an Octodiver",
+      "range": [],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Splat {{X}} Shielded Octotroopers ",
+      "range": [5, 10, 15],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Activate {{X}} Switches ",
+      "range": [4, 6, 8, 10],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Get {{X}} Checkpoints",
+      "range": [10, 15, 20, 25],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
       "goal": "Beat {{X}} Stages with Hardest Weapon",
       "range": [5, 10],
       "board_categories": [],
