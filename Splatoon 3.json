@@ -12,8 +12,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
       "text_color": "#ff0000",
-      "tooltip": "BETA"
+      "emoji": "🗝️"
     },
     {
       "goal": "Splat {{X}} Oversized Octopods",
@@ -22,8 +23,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
       "text_color": "#ff0000",
-      "tooltip": "BETA"
+      "emoji": "🐙"
     },
     {
       "goal": "Splat an Octobomber",
@@ -32,8 +34,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
       "text_color": "#ff0000",
-      "tooltip": "BETA"
+      "emoji": "🐙"
     },
     {
       "goal": "Splat {{X}} Octosnipers",
@@ -42,8 +45,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
       "text_color": "#ff0000",
-      "tooltip": "BETA"
+      "emoji": "🐙"
     },
     {
       "goal": "Splat {{X}} Octocommanders",
@@ -52,8 +56,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
       "text_color": "#ff0000",
-      "tooltip": "BETA"
+      "emoji": "🐙"
     },
     {
       "goal": "Splat {{X}} Octolings",
@@ -62,8 +67,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
       "text_color": "#ff0000",
-      "tooltip": "BETA"
+      "emoji": "🐙"
     },
     {
       "goal": "Splat an Amped Octostamp",
@@ -72,8 +78,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
       "text_color": "#ff0000",
-      "tooltip": "BETA"
+      "emoji": "🐙"
     },
     {
       "goal": "Splat an Octostamp",
@@ -82,8 +89,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
       "text_color": "#ff0000",
-      "tooltip": "BETA"
+      "emoji": "🐙"
     },
     {
       "goal": "Splat a Blobby Octotrooper",
@@ -92,8 +100,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
       "text_color": "#ff0000",
-      "tooltip": "BETA"
+      "emoji": "🐙"
     },
     {
       "goal": "Splat an Octodiver",
@@ -102,8 +111,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
       "text_color": "#ff0000",
-      "tooltip": "BETA"
+      "emoji": "🐙"
     },
     {
       "goal": "Splat {{X}} Shielded Octotroopers ",
@@ -112,8 +122,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
       "text_color": "#ff0000",
-      "tooltip": "BETA"
+      "emoji": "🐙"
     },
     {
       "goal": "Activate {{X}} Switches ",
@@ -122,8 +133,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
       "text_color": "#ff0000",
-      "tooltip": "BETA"
+      "emoji": "🎚️"
     },
     {
       "goal": "Get {{X}} Checkpoints",
@@ -132,8 +144,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
       "text_color": "#ff0000",
-      "tooltip": "BETA"
+      "emoji": "🏁"
     },
     {
       "goal": "Beat {{X}} Stages with Hardest Weapon",
@@ -142,8 +155,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
-      "tooltip": "BETA",
       "individual_limit": 2,
+      "tooltip": "BETA",
       "emoji": "🔫",
       "text_color": "#ff0000"
     },
@@ -154,11 +167,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l"],
-      "tooltip": "BETA",
-      "progressive_ranges": true,
       "individual_limit": 3,
+      "tooltip": "BETA",
       "emoji": "➕",
-      "text_color": "#ff0000"
+      "text_color": "#ff0000",
+      "progressive_ranges": true
     },
     {
       "goal": "Get {{X}} Unique Special Cans Locations",
@@ -167,11 +180,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l"],
-      "tooltip": "BETA",
       "individual_limit": 4,
+      "tooltip": "BETA",
       "emoji": "🥫",
-      "progressive_ranges": true,
-      "text_color": "#ff0000"
+      "text_color": "#ff0000",
+      "progressive_ranges": true
     },
     {
       "goal": "Max Armor",
@@ -180,8 +193,8 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l"],
-      "emoji": "🛡️",
       "tooltip": "BETA",
+      "emoji": "🛡️",
       "text_color": "#ff0000"
     },
     {
@@ -191,11 +204,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
-      "progressive_ranges": true,
       "individual_limit": 4,
-      "emoji": "💼",
       "tooltip": "BETA",
-      "text_color": "#ff0000"
+      "emoji": "💼",
+      "text_color": "#ff0000",
+      "progressive_ranges": true
     },
     {
       "goal": "Boss: DJ Octavio",
@@ -228,11 +241,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l"],
+      "individual_limit": 4,
       "tooltip": "Collect upgrade points by turfing",
       "emoji": "🎖️",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 4
+      "progressive_ranges": true
     },
     {
       "goal": "Complete {{X}} Blue Balloon Challenges ",
@@ -241,11 +254,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m"],
+      "individual_limit": 3,
       "tooltip": "Beat Blue Balloon Challenges and collect the Sunken Scroll",
       "emoji": "🔵🎈",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 3
+      "progressive_ranges": true
     },
     {
       "goal": "Beat {{X}} Gold Kettles",
@@ -254,11 +267,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l", "n"],
+      "individual_limit": 4,
       "tooltip": "Beat levels with a golden kettle entrance",
       "emoji": "☕🟡",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 4
+      "progressive_ranges": true
     },
     {
       "goal": "Beat {{X}} Silver Kettles",
@@ -267,11 +280,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l", "n"],
+      "individual_limit": 3,
       "tooltip": "Beat silver colored kettles in any area",
       "emoji": "☕⚪",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 3
+      "progressive_ranges": true
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 5",
@@ -280,9 +293,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["l", "n"],
+      "individual_limit": 2,
       "emoji": "🟤5️⃣",
-      "text_color": "#b3ffb0",
-      "individual_limit": 2
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 6",
@@ -291,9 +304,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["l"],
+      "individual_limit": 2,
       "emoji": "🟤6️⃣",
-      "text_color": "#b3ffb0",
-      "individual_limit": 2
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 4",
@@ -302,10 +315,10 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l"],
+      "individual_limit": 2,
       "emoji": "🟤4️⃣",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 2
+      "progressive_ranges": true
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 3",
@@ -314,9 +327,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m"],
+      "individual_limit": 2,
       "emoji": "🟤3️⃣",
-      "text_color": "#b3ffb0",
-      "individual_limit": 2
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 2",
@@ -325,11 +338,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m"],
+      "individual_limit": 2,
       "emoji": "🟤2️⃣",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
       "tag": "beat_crater",
-      "individual_limit": 2
+      "progressive_ranges": true
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters in Site 1",
@@ -338,9 +351,9 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e"],
+      "individual_limit": 2,
       "emoji": "🟤1️⃣",
-      "text_color": "#b3ffb0",
-      "individual_limit": 2
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Destroy {{X}} Fuzzy Ooze Clusters",
@@ -349,10 +362,10 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "individual_limit": 3,
       "emoji": "🟤",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 3
+      "progressive_ranges": true
     },
     {
       "goal": "Have a total of {{X}} Power Eggs",
@@ -361,10 +374,10 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l"],
+      "individual_limit": 4,
       "emoji": "🟠🥚",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 4
+      "progressive_ranges": true
     },
     {
       "goal": "Beat {{X}} Kettles with a 40+ Power Egg Fee",
@@ -373,11 +386,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l", "n"],
+      "individual_limit": 3,
       "tooltip": "Beat Kettles that require 40 or 50 Power Eggs to attempt",
       "emoji": "🟠🥚",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 3
+      "progressive_ranges": true
     },
     {
       "goal": "Beat {{X}} Special Only Kettles",
@@ -386,11 +399,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l"],
+      "individual_limit": 3,
       "tooltip": "Beat kettles that only let you use a special weapon in any area",
       "emoji": "🦸☕",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 3
+      "progressive_ranges": true
     },
     {
       "goal": "Beat {{X}} Kettles with all 3 weapons",
@@ -399,10 +412,10 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l", "n"],
+      "individual_limit": 2,
       "tooltip": "Beat levels using all 3 weapon options",
       "emoji": "☕💯",
-      "text_color": "#b3ffb0",
-      "individual_limit": 2
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Complete any Alterna Log",
@@ -477,11 +490,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["l", "n"],
+      "individual_limit": 3,
       "tooltip": "Beat kettles in Site 6",
       "emoji": "☕6️⃣",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 3
+      "progressive_ranges": true
     },
     {
       "goal": "Beat {{X}} Kettles in Eco Forest Treehills",
@@ -490,10 +503,10 @@
       "line_categories": [],
       "icons": [],
       "progression": ["l"],
+      "individual_limit": 2,
       "tooltip": "Beat kettles in Site 5",
       "emoji": "☕5️⃣",
-      "text_color": "#b3ffb0",
-      "individual_limit": 2
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Beat {{X}} Kettles in Landfill Dreamland",
@@ -502,11 +515,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l"],
+      "individual_limit": 3,
       "tooltip": "Beat kettles in Site 4",
       "emoji": "☕4️⃣",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 3
+      "progressive_ranges": true
     },
     {
       "goal": "Beat {{X}} Kettles Cryogenic Hopetown",
@@ -515,10 +528,10 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m"],
+      "individual_limit": 3,
       "tooltip": "Beat kettles in Site 3",
       "emoji": "☕3️⃣",
-      "text_color": "#b3ffb0",
-      "individual_limit": 3
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Beat {{X}} Kettles in Cozy & Safe Factory",
@@ -527,11 +540,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m"],
+      "individual_limit": 3,
       "tooltip": "Beat kettles in Site 2",
       "emoji": "☕2️⃣",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 3
+      "progressive_ranges": true
     },
     {
       "goal": "Beat {{X}} Kettles in Future Utopia Island",
@@ -540,11 +553,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m"],
+      "individual_limit": 3,
       "tooltip": "Beat kettles in Site 1",
       "emoji": "☕1️⃣",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 3
+      "progressive_ranges": true
     },
     {
       "goal": "Beat {{X}} Levels",
@@ -553,11 +566,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "individual_limit": 4,
       "tooltip": "Complete any kettle from any level",
       "emoji": "☕",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 4
+      "progressive_ranges": true
     },
     {
       "goal": "Find {{X}} Loot anchors ",
@@ -589,11 +602,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l", "n"],
+      "individual_limit": 4,
       "tooltip": "Collect Sunken Scrolls from any site",
       "emoji": "📜",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 4
+      "progressive_ranges": true
     },
     {
       "goal": "Obtain {{X}} Sardinium",
@@ -602,11 +615,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l"],
+      "individual_limit": 3,
       "tooltip": "Collect Sardinium from any site",
       "emoji": "🐟",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 3
+      "progressive_ranges": true
     },
     {
       "goal": "Weapon Upgrades x{{X}}",
@@ -615,11 +628,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l", "n"],
+      "individual_limit": 4,
       "tooltip": "Get {{X}} Main and/or Sub weapon upgrades ",
       "emoji": "⬆️",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 4
+      "progressive_ranges": true
     },
     {
       "goal": "Any Smallfry Upgrades x{{X}}",
@@ -628,11 +641,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "individual_limit": 4,
       "tooltip": "Get any combination of Smallfry Upgrades, such as HP, Ink Saver, Quick Respawn and Damage",
       "emoji": "⬆️",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 4
+      "progressive_ranges": true
     },
     {
       "goal": "\"Sensor\" Upgrades x{{X}}",
@@ -641,11 +654,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l"],
+      "individual_limit": 2,
       "tooltip": "Get and/or upgrade the Sensor in the Hero Gear",
       "emoji": "⬆️",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 2
+      "progressive_ranges": true
     },
     {
       "goal": "\"Suit Recovery Up\" Upgrades x{{X}}",
@@ -654,11 +667,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "n"],
+      "individual_limit": 2,
       "tooltip": "Upgrade the Suit Recovery in the Hero Gear",
       "emoji": "⬆️",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 2
+      "progressive_ranges": true
     },
     {
       "goal": "\"Splat Bombs\" Upgrades x{{X}}",
@@ -667,10 +680,10 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l"],
+      "individual_limit": 2,
       "tooltip": "Get and/or upgrade the Splat Bombs in the Hero Gear",
       "emoji": "⬆️",
-      "text_color": "#b3ffb0",
-      "individual_limit": 2
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "\"Smallfry Ink Saver\" Upgrade",
@@ -690,11 +703,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l"],
+      "individual_limit": 2,
       "tooltip": "Increase the Ink-Tank Capacity via Hero Gear",
       "emoji": "⬆️",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 2
+      "progressive_ranges": true
     },
     {
       "goal": "\"Ink Resistance Up\" upgrades x{{X}}",
@@ -703,11 +716,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l"],
+      "individual_limit": 2,
       "tooltip": "Upgrade Ink Resistance via Hero Gear",
       "emoji": "⬆️",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 2
+      "progressive_ranges": true
     },
     {
       "goal": "\"Hero Shot\" upgrades x{{X}}",
@@ -716,11 +729,11 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l"],
+      "individual_limit": 2,
       "tooltip": "Increase the Hero Shot's fire rate via the Hero Gear",
       "emoji": "⬆️",
       "text_color": "#b3ffb0",
-      "progressive_ranges": true,
-      "individual_limit": 2
+      "progressive_ranges": true
     },
     {
       "goal": "\"Special Charge Up\" Upgrade x{{X}}",
@@ -729,10 +742,10 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e"],
+      "individual_limit": 2,
       "tooltip": "Increase your Special Charge rate via Hero Gear",
       "emoji": "⬆️",
-      "text_color": "#b3ffb0",
-      "individual_limit": 2
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "\"Smallfry HP Up\" Upgrade",
