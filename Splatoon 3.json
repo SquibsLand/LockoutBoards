@@ -11,10 +11,12 @@
       "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["e", "m", "l"],
       "tooltip": "BETA",
-      "text_color": "#ff0000",
-      "emoji": "🗝️"
+      "text_color": "#b3ffb0",
+      "emoji": "🗝️",
+      "individual_limit": 4,
+      "progressive_ranges": true
     },
     {
       "goal": "Splat {{X}} Oversized Octopods",
@@ -25,7 +27,8 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
       "text_color": "#ff0000",
-      "emoji": "🐙"
+      "emoji": "🐙",
+      "individual_limit": 3
     },
     {
       "goal": "Splat an Octobomber",
@@ -44,10 +47,11 @@
       "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l", "n"],
       "tooltip": "BETA",
       "text_color": "#ff0000",
-      "emoji": "🐙"
+      "emoji": "🐙",
+      "individual_limit": 4
     },
     {
       "goal": "Splat {{X}} Octocommanders",
@@ -58,7 +62,8 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
       "text_color": "#ff0000",
-      "emoji": "🐙"
+      "emoji": "🐙",
+      "individual_limit": 4
     },
     {
       "goal": "Splat {{X}} Octolings",
@@ -69,7 +74,8 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
       "text_color": "#ff0000",
-      "emoji": "🐙"
+      "emoji": "🐙",
+      "individual_limit": 2
     },
     {
       "goal": "Splat an Amped Octostamp",
@@ -124,10 +130,11 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
       "text_color": "#ff0000",
-      "emoji": "🐙"
+      "emoji": "🐙",
+      "individual_limit": 3
     },
     {
-      "goal": "Activate {{X}} Switches ",
+      "goal": "Activate {{X}} Splat-Switches ",
       "range": [4, 6, 8, 10],
       "board_categories": ["alterna"],
       "line_categories": [],
@@ -135,7 +142,8 @@
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
       "text_color": "#ff0000",
-      "emoji": "🎚️"
+      "emoji": "🎚️",
+      "individual_limit": 4
     },
     {
       "goal": "Get {{X}} Checkpoints",
@@ -145,8 +153,9 @@
       "icons": [],
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
-      "text_color": "#ff0000",
-      "emoji": "🏁"
+      "text_color": "#b3ffb0",
+      "emoji": "🏁",
+      "progressive_ranges": true
     },
     {
       "goal": "Beat {{X}} Stages with Hardest Weapon",
@@ -154,11 +163,12 @@
       "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
+      "progression": ["m", "l"],
       "individual_limit": 2,
       "tooltip": "BETA",
       "emoji": "🔫",
-      "text_color": "#ff0000"
+      "text_color": "#b3ffb0",
+      "progressive_ranges": true
     },
     {
       "goal": "End {{X}} Stages with Bonuses",
@@ -170,7 +180,7 @@
       "individual_limit": 3,
       "tooltip": "BETA",
       "emoji": "➕",
-      "text_color": "#ff0000",
+      "text_color": "#b3ffb0",
       "progressive_ranges": true
     },
     {
@@ -183,7 +193,7 @@
       "individual_limit": 4,
       "tooltip": "BETA",
       "emoji": "🥫",
-      "text_color": "#ff0000",
+      "text_color": "#b3ffb0",
       "progressive_ranges": true
     },
     {
@@ -195,19 +205,19 @@
       "progression": ["m", "l"],
       "tooltip": "BETA",
       "emoji": "🛡️",
-      "text_color": "#ff0000"
+      "text_color": "#b3ffb0"
     },
     {
       "goal": "Get {{X}} Unique Armor Kits",
-      "range": [5, 10, 15, 20],
+      "range": [5, 10, 15],
       "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
-      "progression": ["e", "m", "l", "n"],
-      "individual_limit": 4,
+      "progression": ["m", "l", "n"],
+      "individual_limit": 3,
       "tooltip": "BETA",
       "emoji": "💼",
-      "text_color": "#ff0000",
+      "text_color": "#b3ffb0",
       "progressive_ranges": true
     },
     {
