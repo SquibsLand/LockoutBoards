@@ -6,16 +6,16 @@
   "tag_names": ["beat_crater"],
   "objectives": [
     {
-      "goal": "Obtain {{X}} Keys",
+      "goal": "Obtain {{X}} Unique Keys",
       "range": [5, 8, 10, 12],
       "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l"],
-      "tooltip": "BETA",
-      "text_color": "#b3ffb0",
-      "emoji": "🗝️",
       "individual_limit": 4,
+      "tooltip": "Collect unique keys in any combination of levels.",
+      "emoji": "🗝️",
+      "text_color": "#b3ffb0",
       "progressive_ranges": true
     },
     {
@@ -25,10 +25,10 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "individual_limit": 3,
       "tooltip": "BETA",
-      "text_color": "#ff0000",
       "emoji": "🐙",
-      "individual_limit": 3
+      "text_color": "#ff0000"
     },
     {
       "goal": "Splat an Octobomber",
@@ -38,8 +38,8 @@
       "icons": [],
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
-      "text_color": "#ff0000",
-      "emoji": "🐙"
+      "emoji": "🐙",
+      "text_color": "#ff0000"
     },
     {
       "goal": "Splat {{X}} Octosnipers",
@@ -48,10 +48,10 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l", "n"],
+      "individual_limit": 4,
       "tooltip": "BETA",
-      "text_color": "#ff0000",
       "emoji": "🐙",
-      "individual_limit": 4
+      "text_color": "#ff0000"
     },
     {
       "goal": "Splat {{X}} Octocommanders",
@@ -60,10 +60,10 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "individual_limit": 4,
       "tooltip": "BETA",
-      "text_color": "#ff0000",
       "emoji": "🐙",
-      "individual_limit": 4
+      "text_color": "#ff0000"
     },
     {
       "goal": "Splat {{X}} Octolings",
@@ -72,10 +72,10 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "individual_limit": 2,
       "tooltip": "BETA",
-      "text_color": "#ff0000",
       "emoji": "🐙",
-      "individual_limit": 2
+      "text_color": "#ff0000"
     },
     {
       "goal": "Splat an Amped Octostamp",
@@ -85,8 +85,8 @@
       "icons": [],
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
-      "text_color": "#ff0000",
-      "emoji": "🐙"
+      "emoji": "🐙",
+      "text_color": "#ff0000"
     },
     {
       "goal": "Splat an Octostamp",
@@ -96,8 +96,8 @@
       "icons": [],
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
-      "text_color": "#ff0000",
-      "emoji": "🐙"
+      "emoji": "🐙",
+      "text_color": "#ff0000"
     },
     {
       "goal": "Splat a Blobby Octotrooper",
@@ -107,8 +107,8 @@
       "icons": [],
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
-      "text_color": "#ff0000",
-      "emoji": "🐙"
+      "emoji": "🐙",
+      "text_color": "#ff0000"
     },
     {
       "goal": "Splat an Octodiver",
@@ -118,8 +118,8 @@
       "icons": [],
       "progression": ["e", "m", "l", "n"],
       "tooltip": "BETA",
-      "text_color": "#ff0000",
-      "emoji": "🐙"
+      "emoji": "🐙",
+      "text_color": "#ff0000"
     },
     {
       "goal": "Splat {{X}} Shielded Octotroopers ",
@@ -128,10 +128,10 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "individual_limit": 3,
       "tooltip": "BETA",
-      "text_color": "#ff0000",
       "emoji": "🐙",
-      "individual_limit": 3
+      "text_color": "#ff0000"
     },
     {
       "goal": "Activate {{X}} Splat-Switches ",
@@ -140,45 +140,45 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
+      "individual_limit": 4,
       "tooltip": "BETA",
-      "text_color": "#ff0000",
       "emoji": "🎚️",
-      "individual_limit": 4
+      "text_color": "#ff0000"
     },
     {
-      "goal": "Get {{X}} Checkpoints",
+      "goal": "Get {{X}} Unique Checkpoints",
       "range": [10, 15, 20, 25],
       "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
-      "tooltip": "BETA",
-      "text_color": "#b3ffb0",
+      "tooltip": "In any combination of levels reach unique checkpoints.",
       "emoji": "🏁",
+      "text_color": "#b3ffb0",
       "progressive_ranges": true
     },
     {
-      "goal": "Beat {{X}} Stages with Hardest Weapon",
+      "goal": "Beat {{X}} Kettles with Hardest Weapon of 3",
       "range": [5, 10],
       "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l"],
       "individual_limit": 2,
-      "tooltip": "BETA",
+      "tooltip": "Beat any kettles with the hardest weapon, when 3 weapons are offered",
       "emoji": "🔫",
       "text_color": "#b3ffb0",
       "progressive_ranges": true
     },
     {
-      "goal": "End {{X}} Stages with Bonuses",
+      "goal": "End {{X}} Kettles with Bonuses",
       "range": [1, 2, 3, 4, 5],
       "board_categories": ["alterna"],
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l"],
       "individual_limit": 3,
-      "tooltip": "BETA",
+      "tooltip": "Beat stages while having armor or a canned special to receive bonus power eggs.",
       "emoji": "➕",
       "text_color": "#b3ffb0",
       "progressive_ranges": true
@@ -191,7 +191,7 @@
       "icons": [],
       "progression": ["e", "m", "l"],
       "individual_limit": 4,
-      "tooltip": "BETA",
+      "tooltip": "Find unique special can locations in any combination of levels.",
       "emoji": "🥫",
       "text_color": "#b3ffb0",
       "progressive_ranges": true
@@ -203,7 +203,7 @@
       "line_categories": [],
       "icons": [],
       "progression": ["m", "l"],
-      "tooltip": "BETA",
+      "tooltip": "Reach max armor in a single level",
       "emoji": "🛡️",
       "text_color": "#b3ffb0"
     },
@@ -215,7 +215,7 @@
       "icons": [],
       "progression": ["m", "l", "n"],
       "individual_limit": 3,
-      "tooltip": "BETA",
+      "tooltip": "Find unique armor kits in any combination of levels.",
       "emoji": "💼",
       "text_color": "#b3ffb0",
       "progressive_ranges": true
