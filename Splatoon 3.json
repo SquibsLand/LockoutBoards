@@ -241,7 +241,6 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
-      "tooltip": "BETA",
       "emoji": "🐙",
       "text_color": "#b3ffb0"
     },
@@ -266,7 +265,6 @@
       "icons": [],
       "progression": ["e", "m", "l", "n"],
       "individual_limit": 3,
-      "tooltip": "BETA",
       "emoji": "🐙",
       "text_color": "#b3ffb0"
     },
@@ -277,7 +275,6 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
-      "tooltip": "BETA",
       "emoji": "🐙",
       "text_color": "#b3ffb0"
     },
@@ -289,7 +286,6 @@
       "icons": [],
       "progression": ["m", "l", "n"],
       "individual_limit": 4,
-      "tooltip": "BETA",
       "emoji": "🐙",
       "text_color": "#b3ffb0"
     },
@@ -301,7 +297,6 @@
       "icons": [],
       "progression": ["e", "m", "l", "n"],
       "individual_limit": 4,
-      "tooltip": "BETA",
       "emoji": "🐙",
       "text_color": "#b3ffb0"
     },
@@ -313,7 +308,6 @@
       "icons": [],
       "progression": ["e", "m", "l", "n"],
       "individual_limit": 2,
-      "tooltip": "BETA",
       "emoji": "🐙",
       "text_color": "#b3ffb0"
     },
@@ -324,7 +318,6 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
-      "tooltip": "BETA",
       "emoji": "🐙",
       "text_color": "#b3ffb0"
     },
@@ -335,7 +328,6 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
-      "tooltip": "BETA",
       "emoji": "🐙",
       "text_color": "#b3ffb0"
     },
@@ -346,7 +338,6 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
-      "tooltip": "BETA",
       "emoji": "🐙",
       "text_color": "#b3ffb0"
     },
@@ -357,7 +348,6 @@
       "line_categories": [],
       "icons": [],
       "progression": ["e", "m", "l", "n"],
-      "tooltip": "BETA",
       "emoji": "🐙",
       "text_color": "#b3ffb0"
     },
@@ -369,7 +359,6 @@
       "icons": [],
       "progression": ["e", "m", "l", "n"],
       "individual_limit": 3,
-      "tooltip": "BETA",
       "emoji": "🐙",
       "text_color": "#b3ffb0"
     },
