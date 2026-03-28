@@ -6,6 +6,235 @@
   "tag_names": ["beat_crater"],
   "objectives": [
     {
+      "goal": "Collect {{X}} unique weapon specific chips",
+      "range": [2, 3, 4],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000"
+    },
+    {
+      "goal": "Overlorder",
+      "range": [],
+      "board_categories": [],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Change your special weapon {{X}} times",
+      "range": [1, 2, 3],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Change your sub weapon {{X}} times",
+      "range": [1, 2, 3],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Get {{X}} Membux in one Climb",
+      "range": [1000, 2000, 3000],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Score {{X}} points in one climb",
+      "range": [5000, 7500, 10000, 15000],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
+      "text_color": "#ff0000"
+    },
+    {
+      "goal": "Get a(n) {{X}} long Tone Chain",
+      "range": [2, 3, 4, 5],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Reach floor 10 with {{X}} unique Palettes",
+      "range": [2, 3, 4],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Beat {{X}} Boss Floors",
+      "range": [2, 3, 4, 5],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Hard Floors x{{X}}",
+      "range": [5, 10],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Normal Floors x{{X}}",
+      "range": [5, 10, 15],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Easy floors x{{X}}",
+      "range": [5, 10, 15, 20],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Visit {{X}} Vending Machines",
+      "range": [3, 5, 8],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Buy {{X}} things from the Vending Machines",
+      "range": [3, 5, 10, 15],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Use your special {{X}} times",
+      "range": [10, 15, 20],
+      "board_categories": ["alterna", "side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Fill Unique Specials {{X}} Gauges",
+      "range": [3, 4, 5],
+      "board_categories": ["alterna", "side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Find {{X}} Unique Drone Chips",
+      "range": [3, 4, 5],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Find {{X}} Unique Lucky Chips",
+      "range": [4, 5, 6],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "tooltip": "BETA",
+      "text_color": "#ff0000"
+    },
+    {
+      "goal": "Find {{X}} Unique Mobility Chips",
+      "range": [4, 5, 6],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Find {{X}} Unique Range Chips",
+      "range": [4, 5, 6],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Find {{X}} Unique Support Chips",
+      "range": [4, 5, 6],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Find {{X}} Unique Power Chips",
+      "range": [3, 4, 5],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
+      "goal": "Get {{X}} total Prlz",
+      "range": [150, 200, 250],
+      "board_categories": ["side_order"],
+      "line_categories": [],
+      "icons": [],
+      "progression": ["e", "m", "l", "n"],
+      "text_color": "#ff0000",
+      "tooltip": "BETA"
+    },
+    {
       "goal": "Splat an Octohopper",
       "range": [],
       "board_categories": ["alterna"],
@@ -1472,7 +1701,7 @@
       "text_color": "#ffa6e1"
     },
     {
-      "goal": "Drone Saturation x{{X}}",
+      "goal": "{{X}} Drone Chips on one climb ",
       "range": [8, 16],
       "board_categories": ["color_chips", "side_order"],
       "line_categories": [],
@@ -1482,7 +1711,7 @@
       "text_color": "#ffa6e1"
     },
     {
-      "goal": "Lucky Saturation x{{X}}",
+      "goal": "{{X}} Lucky color-chips on one climb",
       "range": [8, 16],
       "board_categories": ["color_chips", "side_order"],
       "line_categories": [],
@@ -1492,7 +1721,7 @@
       "text_color": "#ffa6e1"
     },
     {
-      "goal": "Mobility Saturation x{{X}}",
+      "goal": "{{X}} Mobility color-chips on one climb",
       "range": [8, 16],
       "board_categories": ["color_chips", "side_order"],
       "line_categories": [],
@@ -1502,7 +1731,7 @@
       "text_color": "#ffa6e1"
     },
     {
-      "goal": "Range saturation x{{X}}",
+      "goal": "{{X}} Range color-chips on one climb",
       "range": [8, 16],
       "board_categories": ["color_chips", "side_order"],
       "line_categories": [],
@@ -1512,7 +1741,7 @@
       "text_color": "#ffa6e1"
     },
     {
-      "goal": "Support Saturation x{{X}}",
+      "goal": "{{X}} Support color-chips on one climb",
       "range": [8, 16],
       "board_categories": ["color_chips", "side_order"],
       "line_categories": [],
@@ -1522,7 +1751,7 @@
       "text_color": "#ffa6e1"
     },
     {
-      "goal": "Power saturation x{{X}}",
+      "goal": "{{X}} Power color-chips on one climb",
       "range": [8, 16],
       "board_categories": ["color_chips", "side_order"],
       "line_categories": [],
